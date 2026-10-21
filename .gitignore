@@ -15,6 +15,7 @@ src/
 *.obj
 *.out
 *.exe
+*.pdf
 
 # Fichiers temporaires d'éditeurs
 *~
